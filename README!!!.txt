@@ -12,7 +12,7 @@ Tips to present your project offline: 
 
 
 Also for full presentation you can also visit the Online version at: 
-https://my.visme.co/preojects/6xm8rqe3-untitled-project
+https://my.visme.co/preojects/6xm8rqe3-gc
 For more tips on HTML5 download visit support topic:
 http://support.visme.co/knowledgebase/downloading-projects-for-offline-use/
 
